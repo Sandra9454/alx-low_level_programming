@@ -21,7 +21,7 @@ int check_prime(int n, int x)
 }
 
 /**
- * is_prime_number -  a function returns 1 if the input prime number, otherwise 0.
+ * is_prime_number - function returns 1  input prime number, otherwise 0.
  * @n: integer to be returned
  * Return: an integer
  */
