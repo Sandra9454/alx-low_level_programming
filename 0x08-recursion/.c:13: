@@ -1,0 +1,6 @@
+s_palindrome.c:13: ERROR: trailing statements should be on next line
+100-is_palindrome.c:15: ERROR: space required before the open parenthesis '('
+100-is_palindrome.c:16: ERROR: trailing whitespace
+100-is_palindrome.c:18: ERROR: parentheses are required on a return statement
+100-is_palindrome.c:20: ERROR: parentheses are required on a return statement
+
