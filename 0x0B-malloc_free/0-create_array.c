@@ -4,6 +4,7 @@
 /**
  * *create_array - unction that creates an array of chars, and initializes it
  * @c : character to initialize it.
+ * @size: size of the array
  * Return: a pointer in success or NULL otherwise.
  */
 
