@@ -1,6 +1,7 @@
 #include "main.h"
 #include <stdlib.h>
 #include <stdio.h>
+#include <unistd.h>
 
 /**
  * is_digit - function that check if a string consist of digits
